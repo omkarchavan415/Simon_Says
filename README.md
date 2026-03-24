@@ -3,3 +3,4 @@ Live Link
 https://omkarchavan415.github.io/Simon_Says/
 
 
+Simon is a classic electronic memory game featuring four colored buttons (red, green, blue, yellow) that light up and produce sounds in random sequences. Players must repeat the increasing sequence of colors correctly, with the pattern getting longer each round. The goal is to avoid mistakes and achieve the longest sequence. 
